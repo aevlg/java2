@@ -1,4 +1,4 @@
-package gb.ls2.team;
+package lesson1;
 
 public class Skills {
 
@@ -40,17 +40,7 @@ public String getName(){
 }
 
 
-//    protected boolean run(int distance) {
-//        return (distance <= maxRun);
-//    }
-//
-//    protected boolean swim(int distance) {
-//        return (distance <= maxSwim) ;
-//    }
-//
-//    protected boolean jump (int distance) {
-//        return (distance <= maxJump) ;
-//    }
+
 
 
 }

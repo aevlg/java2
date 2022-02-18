@@ -1,7 +1,7 @@
-package gb.ls2.team.course;
+package lesson1.course;
 
-import gb.ls2.team.Humon;
-import gb.ls2.team.Skills;
+import lesson1.Humon;
+import lesson1.Skills;
 
 public class Course {
 
@@ -51,23 +51,6 @@ public class Course {
 
     }
 
-
-
-
-//    protected int testRun(int distanceRun){
-//        return (distanceRun <= run);
-//            result += "ПРОБЕЖАЛ ДИСТАНЦИЮ "+ '\n';
-//    }
-//
-//    protected void testSwim(int distanceSwim){
-//        if(distanceSwim<swim ) result += "ПРОПЛЫЛ ДИСТАНЦИЮ  "+ '\n';
-//
-//    }
-//
-//    private void testJump(int distanceJump){
-//        if(distanceJump<jump ) result += "ПЕРЕПРЫГНУЛ ПРИПЯТСТВИЕ "+ '\n';
-//
-//    }
 }
 
 

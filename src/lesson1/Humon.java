@@ -1,4 +1,4 @@
-package gb.ls2.team;
+package lesson1;
 
 public class Humon  {
     private String teamName;

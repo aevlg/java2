@@ -146,4 +146,4 @@ public class Headline {
         this.additionalProperties.put(name, value);
     }
 
-}}
+}
